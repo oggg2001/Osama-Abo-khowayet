@@ -1,4 +1,4 @@
-# 👨‍💻 Osama Abdulabbas | Flutter Developer
+# 👨‍💻 Osama ABO-KHOWAYET | Flutter Developer
 
 <div align="center">
   
@@ -10,12 +10,12 @@
 
 ## 🎯 About Me - Flutter Specialist
 
-I'm a **Flutter Developer** and **4th-year Computer Engineering student** specializing in building **production-ready mobile applications** that scale. My passion lies in creating elegant, performant apps that deliver exceptional user experiences.
+I'm a **Flutter Developer** and Computer Engineer specializing in building **production-ready mobile applications** that scale. My passion lies in creating elegant, performant apps that deliver exceptional user experiences.
 
 ### 🚀 My Flutter Journey
 
 ```dart
-class OsamaKhowayet extends FlutterDeveloper {
+class Osama ABO-KHOWAYET extends FlutterDeveloper {
   final String specialty = "Mobile App Development";
   final List<String> expertise = [
     "Flutter & Dart",
