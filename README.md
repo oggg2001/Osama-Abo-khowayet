@@ -259,6 +259,6 @@ I'm always excited to discuss Flutter, mobile development, IoT solutions, or pot
 
 **Available for Flutter Development Opportunities | June 2026**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=02569B&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=eng-osama1&color=02569B&style=flat-square)
 
 </div>
