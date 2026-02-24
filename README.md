@@ -210,11 +210,9 @@ final List<String> futureGoals = [
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eng-osama1&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=eng-osama1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=02569B&icon_color=02569B" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-osama1&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eng-osama1&theme=tokyonight)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-osama1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=02569B" alt="Top Languages" />
 
 </div>
 
